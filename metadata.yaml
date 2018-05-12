@@ -1,0 +1,36 @@
+_repo: Earth-s-Enigmas--A-Volume-of-Stories_20231
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Sir Charles George Douglas
+    - Roberts, Charles George Douglas, Sir
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2006-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: Do seek their meat from God -- The perdu -- "The young ravens that
+  call upon him" -- Within sound of the saws -- The butt of the camp -- In the accident
+  ward -- The romance of an ox-team -- A tragedy of the tides -- At the rough-and-tumble
+  landing -- An experience of Jabez Batterpole -- The stone dog -- The barn on the
+  marsh -- Captain Joe and Jamie -- Strayed -- The eye of Gluskâp.
+title: 'Earth''s Enigmas: A Volume of Stories'
+url: http://www.gutenberg.org/ebooks/20231
